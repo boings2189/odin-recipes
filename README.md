@@ -1,2 +1,3 @@
 # odin-recipes
-Type introduction here
+First attempt at the odin recipe assignment.
+There are currently 3 recipes in the website
